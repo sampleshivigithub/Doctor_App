@@ -10,7 +10,7 @@ A rest api using Spring Boot that enables users to search and book appointments 
 ## Tech Stack
 - Java.
 - Spring Framework
-- Spring Boot
+- Spring Boot 
 - Spring Data JPA
 - Hibernate
 - Spring Validation
